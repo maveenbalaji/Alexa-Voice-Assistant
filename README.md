@@ -53,7 +53,7 @@ This project is a simple Python-based voice assistant inspired by Amazon Alexa. 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/maveenbalaji/alexa-voice-assistant.git
+   git clone https://github.com/maveenbalaji/Alexa-Voice-Assistant.git
    ```
 
 2. Install dependencies:
